@@ -13,3 +13,7 @@ Project leaders: Prof. Sarang Dalal and Prof. Lars Henning Pedersen
 
 Eligibility Requirements:
 You must be at least 32 weeks pregnant at the time of the scan. You must be healthy with no pregnancy complications or special risk factors.
+
+For more participation information in [english]
+(https://github.com/karenthsen/optimum.github.io/blob/main/4c%20Deltagerinformation%20EN%20version_3_19-01-2026.pdf)
+
