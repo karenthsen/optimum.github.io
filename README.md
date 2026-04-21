@@ -7,7 +7,7 @@ Our research explores how your baby’s brain begins to respond to light and sou
 
 The study will take place at Aarhus University Hospital in Skejby. You are welcome to bring a person of your choice to accompany you to both meetings and the laboratory session. Join us and help unlock the secrets of early brain development!
 
-If you are interested in this study, but do not see a suitable timeslot available, please contact us at: optimum@cfin.au.dk
+If you are interested in this study, please contact us at: optimum@cfin.au.dk
 
 Project leaders: Prof. Sarang Dalal and Prof. Lars Henning Pedersen
 
