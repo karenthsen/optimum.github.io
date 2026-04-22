@@ -1,4 +1,3 @@
-# optimum.github.io
 # Measurement of fetal brainwaves in the third trimester of pregnancy
 
 ## Description:
@@ -198,6 +197,4 @@ Palle Juul-Jensens Boulevard 99
 8200 Aarhus N 
 email: lars.h.pedersen@auh.rm.dk
 phone: +45 5052 6512
-<img width="482" height="712" alt="image" src="https://github.com/user-attachments/assets/6a957e81-2155-416e-8e49-b3673b563452" />
-
 
