@@ -16,9 +16,7 @@ You must be at least 32 weeks pregnant at the time of the scan. You must be heal
 
 ## Further participation information in Danish & English (below):
 
-## Projekttitel:
-Fosterets hjernereaktioner på lys og lyd målt med optisk pumpede magnetometre
-
+## Projekttitel: Fosterets hjernereaktioner på lys og lyd målt med optisk pumpede magnetometre
 Du er inviteret til at deltage i en forskningsundersøgelse. Før du beslutter dig, er det vigtigt, at du forstår, hvorfor forskningen bliver lavet, og hvad den indebærer. Tag dig god tid til at læse informationen grundigt og diskuter det gerne med andre. Spørg os endelig, hvis der er noget, der er uklart, eller om du ønsker mere information. Vi kan præsentere information om studiet enten personligt eller via videomøde, hvis det ønskes. Tag dig tid til at beslutte, om du vil deltage. Tak fordi du læste dette og overvejede vores undersøgelse.
 
 ### Hvad er formålet med denne undersøgelse?
@@ -104,9 +102,7 @@ Palle Juul-Jensens Boulevard 99
 email: lars.h.pedersen@auh.rm.dk
 tlf: +45 5052 6512
 
-## Title of Project:
-Fetal brain responses to light and sound measured with optically pumped magnetometers
-
+## Title of Project: Fetal brain responses to light and sound measured with optically pumped magnetometers
 You are invited to take part in a research study. Before you decide, it is important for you to understand why the research is being done and what it involves. Please take time to read the following information carefully and discuss it with others, if you wish. Ask us if there is anything that is not clear or if you would like more information. We can present information about the study in person or by video call, if desired. Take time to decide whether or not you wish to take part. Thank you for reading this and considering our study.
 
 ### What is the purpose of this study?
