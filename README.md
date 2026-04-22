@@ -85,7 +85,7 @@ Vi opfordrer dig til at læse det vedhæftede dokument om forsøgspersonernes re
 ### Hvordan kan jeg kontakte projektlederne? 
 Hvis du har spørgsmål, er du meget velkommen til at kontakte os:
 
-Professor Sarang Dalal
+Professor Sarang Dalal.
 Center for Funktionelt Integrativ Neurovidenskab
 Aarhus Universitet
 Universitetsbyen 3, Bygning 1710
@@ -93,7 +93,7 @@ Universitetsbyen 3, Bygning 1710
 email: sarang@cfin.au.dk
 tlf: +45 9350 8443
 
-Klinisk Professor og Overlæge Lars Henning Pedersen 
+Klinisk Professor og Overlæge Lars Henning Pedersen. 
 Aarhus Universitetshospital
 Kvindesygdomme og Fødsler
 Palle Juul-Jensens Boulevard 99 
@@ -182,7 +182,7 @@ As a participant in a health science research project, you should know that:
 ### How can I contact the project leaders?
 If you have any questions, you are very welcome to contact us:
 
-Professor Sarang Dalal
+Professor Sarang Dalal.
 Center of Functionally Integrative Neuroscience
 Aarhus University
 Universitetsbyen 3, Building 1710
@@ -190,7 +190,7 @@ Universitetsbyen 3, Building 1710
 email: sarang@cfin.au.dk
 phone: +45 9350 8443
 
-Professor and Consultant Physician Lars Henning Pedersen
+Professor and Consultant Physician Lars Henning Pedersen.
 Aarhus University Hospital
 Gynecology and Obstetrics 
 Palle Juul-Jensens Boulevard 99 
