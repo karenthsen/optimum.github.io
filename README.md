@@ -1,6 +1,6 @@
 # Measurement of fetal brainwaves in the third trimester of pregnancy
 
-## Description:
+### Description:
 We’re recruiting for an exciting study that will take place in the third trimester of pregnancy.
 Our research explores how your baby’s brain begins to respond to light and sound before birth! We’ll use sensors on your abdomen to measure fetal brainwaves. You will also receive an ultrasound image.
 
@@ -10,7 +10,7 @@ If you are interested in this study, please contact us at: optimum@cfin.au.dk
 
 Project leaders: Prof. Sarang Dalal and Prof. Lars Henning Pedersen
 
-## Eligibility Requirements:
+### Eligibility Requirements:
 You must be at least 32 weeks pregnant at the time of the scan. You must be healthy with no pregnancy complications or special risk factors.
 
 ## Further participation information in Danish & English (below):
